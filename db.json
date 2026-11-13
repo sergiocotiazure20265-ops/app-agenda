@@ -1,0 +1,14 @@
+{
+    "tarefas": [
+        {
+            "id" : 1,
+            "nome" : "Estudar Angular",
+            "data" : "2026-11-13",
+            "hora" : "07:00",
+            "categoria" : "Estudos",
+            "prioridade" : "Alta",
+            "finalizado" : false,
+            "comentarios" : "Estudar integração do Angular com o backend"
+        }
+    ]
+}
